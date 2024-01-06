@@ -29,9 +29,9 @@ We welcome contributions from the community to help improve Everbloom! Here are 
 - **Testing**: Play the game and report any bugs or issues you find.
 
 ## Getting Started:
-- Clone the repository.
+- Forh the repository.
 - Create a new branch for your feature or bug fix.
-- Make your changes to the code, art, or documentation.
+- Make your changes to the code or art.
 - Make sure your changes work as expected and don't introduce any new bugs.
 - Write a clear and concise commit message that describes your changes.
 - Push your branch to your fork on GitHub.
