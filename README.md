@@ -29,7 +29,7 @@ We welcome contributions from the community to help improve Everbloom! Here are 
 - **Testing**: Play the game and report any bugs or issues you find.
 
 ## Getting Started:
-- Forh the repository.
+- Clone the repository.
 - Create a new branch for your feature or bug fix.
 - Make your changes to the code or art.
 - Make sure your changes work as expected and don't introduce any new bugs.
