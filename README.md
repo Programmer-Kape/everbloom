@@ -11,7 +11,8 @@ Play as a little child traversing the world - collecting coins throughout ever c
 
 Please do note that the project requires Unity 2019.4.40f1. You can download it using the following:
 
-- [Directly to Unity Hub](unityhub://2019.4.40f1/ffc62b691db5)
+- Directly to Unity Hub
+> Put this in your browser's address bar ***unityhub://2019.4.40f1/ffc62b691db5***
 - [Standalone Unity Installer](https://download.unity3d.com/download_unity/ffc62b691db5/UnityDownloadAssistant-2019.4.40f1.exe)
 
 ## Contributing
