@@ -9,7 +9,7 @@ Play as a little child traversing the world - collecting coins throughout ever c
 
 **Programming Language:** C#
 
-Please do note that the project requires Unity 2019.4.40f1. You can download it using the following:
+Please do note that the project requires **Unity 2019.4.40f1**. You can download it using the following:
 
 - Directly to Unity Hub
 > Put this in your browser's address bar ***unityhub://2019.4.40f1/ffc62b691db5***
